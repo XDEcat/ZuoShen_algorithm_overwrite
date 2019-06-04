@@ -1,2 +1,2 @@
-# ZuoShen-Algorithm-Rewirte-C++
-左神算法C++重写
+# ZuoShen_algorithm_overwrite
+左神算法重写，使用C++
